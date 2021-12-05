@@ -2,4 +2,4 @@ name: AppleCoreSpigot
 version: 1.0.0
 author: jmatt
 main: com.jmatt.appleskinspigot.AppleSkinSpigotPlugin
-api-version: 1.17
+api-version: 1.18
